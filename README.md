@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-singhyashh-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/singhyashh/)
 [![Email](https://img.shields.io/badge/Email-yash%40tychilabs.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yash@tychilabs.com)
 
-India. Co-Founder & CTO at [Tychi Labs](https://tychilabs.com/). IIT Indore.
+India. Co-Founder & CTO at [Tychi Labs](https://tychilabs.com/). IIT(dropout).
 
 I build self-custodial wallets, cross-chain execution infrastructure, and agentic finance systems.
 
